@@ -9,11 +9,11 @@
 
 ## If statement
 ![writing](./Img/writing3.png)
-![executing](./Img/Executing4.png)
+![executing](./Img/if-statement-execution.png)
 
 ## if and elif statement
 ![writting](./Img/writing5.png)
-![execution](./Img/Executing5.png)
+![execution](./Img/execution.png)
 
 ## Loop examples
 ![loop](./Img/for-loop-example.png)
