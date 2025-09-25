@@ -3,3 +3,8 @@
 ## Summerizing into a paragraph
 
 To my own knowledge, In this mini project on error handling in shell scripting, I learned the importance of anticipating and managing potential errors to build more reliable and user-friendly scripts. By identifying common failure points such as incorrect user input, failed command execution, or resource conflicts (e.g., attempting to recreate an existing AWS S3 bucket), I understood how critical proper checks and validation are. Implementing conditional statements to monitor command exit statuses and using informative error messages greatly enhances script robustness and usability. Specifically, in the S3 bucket creation scenario, I learned to use the aws s3api head-bucket command to check for existing buckets before attempting creation, preventing redundant operations and unnecessary failures. This project emphasized proactive scripting practices and reinforced the value of error handling in real-world automation tasks
+
+## S3 buckets
+![s3 bucket](./Img/S3-bucket2.png)
+![s3 bucket](./Img/S3-bucket3.png)
+![s3 bucket](./Img/S3-bucket.png)
